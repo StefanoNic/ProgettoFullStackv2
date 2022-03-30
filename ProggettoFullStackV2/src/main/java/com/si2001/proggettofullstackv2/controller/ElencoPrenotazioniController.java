@@ -140,3 +140,5 @@ public class ElencoPrenotazioniController {
 
     }
 }
+
+//Realizzato ora che manca il post in prenotazione per l'invio al server
